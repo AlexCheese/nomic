@@ -239,15 +239,6 @@ Rule 210 (Mutable)
 
 ----------------------------------------------------------------------
 
-Rule 211 (Mutable)
-
-      Voters who voted against proposals which are adopted receive 10
-      points apiece.  Players whose proposals are adopted shall receive
-      a random number of points in the range 1-10 inclusive.  Players
-      whose proposals are not adopted shall lose 10 points.
-
-----------------------------------------------------------------------
-
 Rule 212 (Mutable)
 
       If two or more mutable rules conflict with one another, or if
@@ -352,5 +343,14 @@ Rule 304 (Mutable)
       The prescribed voting period for a proposal shall be two days (48 hours),
       beginning at the time the Speaker distributes the proposal to all
       players.
+
+----------------------------------------------------------------------
+
+Rule 306 (Mutable)
+
+**Point Allocation**
+
+      Players whose proposals are adopted shall receive a random number of points in the range 1-10 inclusive. 
+      Players whose proposals are not adopted shall lose 10 points.
 
 ----------------------------------------------------------------------
