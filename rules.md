@@ -188,14 +188,6 @@ Rule 204 (Mutable)
 
 ----------------------------------------------------------------------
 
-Rule 205 (Mutable)
-
-      The prescribed voting period for a proposal shall be one week,
-      beginning at the time the Speaker distributes the proposal to all
-      players.
-
-----------------------------------------------------------------------
-
 Rule 206 (Mutable)
 
       Each Voter has exactly one vote.  The Speaker may not vote.
@@ -352,5 +344,13 @@ Rule 219 (Mutable)
       no provision for starting another game.
         This rule takes precedence over every other rule determining the
       winner of the game.
+
+----------------------------------------------------------------------
+
+Rule 304 (Mutable)
+
+      The prescribed voting period for a proposal shall be two days (48 hours),
+      beginning at the time the Speaker distributes the proposal to all
+      players.
 
 ----------------------------------------------------------------------

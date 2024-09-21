@@ -3,9 +3,9 @@
 | AlexCheese   | 0      |
 | EliTheCoder  | 0      |
 | Force        | -20    |
-| MrJeremyFace | 0      |
+| MrJeremyFace | 10     |
 | Orion        | 0      |
-| Elf          | -10    |
-| Chi_Ling     | 0      |
+| Elf          | -6     |
+| Chi_Ling     | 10     |
 | mattypatty   | 0      |
 | REclipsent   | 0      |
