@@ -266,19 +266,6 @@ Rule 213 (Mutable)
 
 ----------------------------------------------------------------------
 
-Rule 214 (Mutable)
-
-      If judgement was invoked by a Voter, then the first Judge to be
-      selected to judge that statement shall be the Speaker.  If judgement
-      was invoked by the Speaker, the first Judge to be selected shall be
-      a randomly selected Voter.
-        In all cases, if a Judge beyond the first must be selected to judge
-      a statement, it shall be a randomly selected Voter.  The Voter thus
-      selected may not be the player most recently selected as Judge for
-      that statement, nor may e be the player who invoked judgement.
-
-----------------------------------------------------------------------
-
 Rule 215 (Mutable)
 
       After the Speaker has distributed the statement to be judged and the
@@ -354,5 +341,20 @@ Rule 307 (Mutable)
       distribute the reasons and arguments along with the judgement.
         If the judgement is UNDECIDED, a new Judge is selected to judge
       the same statement.
+
+----------------------------------------------------------------------
+
+Rule 308 (Mutable)
+
+      If judgement was invoked by a Voter, then the first Judge to be
+      selected to judge that statement shall be the Speaker.  If judgement
+      was invoked by the Speaker, the first Judge to be selected shall be
+      a randomly selected Voter.
+        In all cases, if a Judge beyond the first must be selected to judge
+      a statement, it shall be a randomly selected Voter who has not yet been
+      a Judge for the statement. The Voter thus selected may not be the player
+      who invoked judgement, nor the player whose action is being called into
+      question (if applicable). If all such Voters have been Judge, the Speaker
+      will be Judge.
 
 ----------------------------------------------------------------------
