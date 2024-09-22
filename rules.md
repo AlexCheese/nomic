@@ -291,16 +291,6 @@ Rule 215 (Mutable)
 
 ----------------------------------------------------------------------
 
-Rule 216 (Mutable)
-
-      A legal judgement is either TRUE, FALSE, or UNDECIDED.  The
-      judgement may be accompanied by reasons and arguments, but such
-      reasons and arguments form no part of the judgement itself.  If a
-      judgement is accompanied by reasons and arguments, the Speaker must
-      distribute the reasons and arguments along with the judgement.
-
-----------------------------------------------------------------------
-
 Rule 217 (Mutable)
 
       All judgements must be in accordance with the rules; however, if
@@ -352,5 +342,17 @@ Rule 306 (Mutable)
 
       Players whose proposals are adopted shall receive a random number of points in the range 1-10 inclusive. 
       Players whose proposals are not adopted shall lose 10 points.
+
+----------------------------------------------------------------------
+
+Rule 307 (Mutable)
+
+      A legal judgement is either TRUE, FALSE, or UNDECIDED.  The
+      judgement may be accompanied by reasons and arguments, but such
+      reasons and arguments form no part of the judgement itself.  If a
+      judgement is accompanied by reasons and arguments, the Speaker must
+      distribute the reasons and arguments along with the judgement.
+        If the judgement is UNDECIDED, a new Judge is selected to judge
+      the same statement.
 
 ----------------------------------------------------------------------
