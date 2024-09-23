@@ -8,5 +8,5 @@
 | Elf          | -6     |
 | Chi_Ling     | 10     |
 | mattypatty   | 0      |
-| REclipsent   | 0      |
+| REclipsent   | -10    |
 | Some1ne      | 0      |
