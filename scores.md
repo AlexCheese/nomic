@@ -3,7 +3,7 @@
 | AlexCheese   | 0      |
 | EliTheCoder  | 11     |
 | Force        | -42    |
-| MrJeremyFace | 10     |
+| MrJeremyFace | 0      |
 | Orion        | 3      |
 | Elf          | -6     |
 | Chi_Ling     | 10     |
