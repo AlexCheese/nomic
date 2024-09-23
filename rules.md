@@ -365,3 +365,11 @@ Rule 309 (Mutable)
       for each rule change proposal.
 
 ----------------------------------------------------------------------
+
+Rule 312 (Mutable)
+
+**Jail**
+
+      Jail exists now. If a player is in jail they can't vote or speak in ⁠general-discussion.
+      They must speak in "# jail" only. Players in jail cannot be a Judge. If a speaker goes
+      to Jail they are let out of jail on parole to perform their duties.
