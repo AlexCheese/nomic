@@ -380,3 +380,11 @@ Rule 313 (Mutable)
          reasons (if given).
 
 ----------------------------------------------------------------------
+
+Rule 314 (Mutable)
+
+      Rules can be authored by any number of Voters. Any points that would be gained or
+      lost by the author upon the proposal passing or failing will be divided across the
+      co-authors equally, rounded to the nearest whole number.
+
+----------------------------------------------------------------------
