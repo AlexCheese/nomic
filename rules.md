@@ -287,20 +287,6 @@ Rule 217 (Mutable)
 
 ----------------------------------------------------------------------
 
-Rule 218 (Mutable)
-
-      In addition to duties which may be listed elsewhere in the rules,
-      the Speaker shall have the following duties:
-        -register new players
-        -maintain a list of all players and their current scores, and
-         make such a list available to all players
-        -maintain a complete list of the current rules, and make such a
-         list available to all players
-        -make a random determination whenever such determination is
-         required by the rules.
-
-----------------------------------------------------------------------
-
 Rule 219 (Mutable)
 
       If a player believes that the rules are such that further play is
@@ -373,3 +359,24 @@ Rule 312 (Mutable)
       Jail exists now. If a player is in jail they can't vote or speak in ⁠general-discussion.
       They must speak in "# jail" only. Players in jail cannot be a Judge. If a speaker goes
       to Jail they are let out of jail on parole to perform their duties.
+
+----------------------------------------------------------------------
+
+Rule 313 (Mutable)
+
+**Speaker Duties**
+
+      In addition to duties which may be listed elsewhere in the rules,
+      the Speaker shall have the following duties:
+        -register new players
+        -maintain a list of all players and their current scores, and
+         make such a list available to all players
+        -maintain a complete list of the current rules, and make such a
+         list available to all players
+        -make a random determination whenever such determination is
+         required by the rules.
+       -maintain a list of each judgement alongside its original
+         statement, its chosen judge, its verdict, and its potential 
+         reasons (if given).
+
+----------------------------------------------------------------------

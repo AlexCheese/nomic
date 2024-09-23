@@ -1,8 +1,8 @@
 | Name         | Points |
 |--------------|--------|
 | AlexCheese   | 0      |
-| EliTheCoder  | 6      |
-| Force        | -21    |
+| EliTheCoder  | 11     |
+| Force        | -17    |
 | MrJeremyFace | 10     |
 | Orion        | 3      |
 | Elf          | -6     |
