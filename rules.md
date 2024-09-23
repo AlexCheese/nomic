@@ -358,3 +358,10 @@ Rule 308 (Mutable)
       will be Judge.
 
 ----------------------------------------------------------------------
+
+Rule 309 (Mutable)
+
+      The speaker must notify all players on the last day of the voting period
+      for each rule change proposal.
+
+----------------------------------------------------------------------
