@@ -388,3 +388,10 @@ Rule 314 (Mutable)
       co-authors equally, rounded to the nearest whole number.
 
 ----------------------------------------------------------------------
+
+Rule 325 (Mutable)
+
+      Court exists now. If a player is convicted GUILTY of a crime/rule in court, they incur
+      the penalty of said crime/rule.
+
+----------------------------------------------------------------------
