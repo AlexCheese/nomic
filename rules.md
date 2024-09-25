@@ -301,14 +301,6 @@ Rule 219 (Mutable)
 
 ----------------------------------------------------------------------
 
-Rule 304 (Mutable)
-
-      The prescribed voting period for a proposal shall be two days (48 hours),
-      beginning at the time the Speaker distributes the proposal to all
-      players.
-
-----------------------------------------------------------------------
-
 Rule 306 (Mutable)
 
 **Point Allocation**
@@ -393,5 +385,17 @@ Rule 325 (Mutable)
 
       Court exists now. If a player is convicted GUILTY of a crime/rule in court, they incur
       the penalty of said crime/rule.
+
+----------------------------------------------------------------------
+
+Rule 327 (Mutable)
+
+      The prescribed amendment period for new proposals shall be one day (24 hours),
+      beginning at the time the Speaker first distributes the proposal to
+      all players. During this time, the proponent(s) of the proposal may
+      make any changes to it by submitting them to the Speaker. The Speaker
+      will distribute the amended proposal as e did the original.
+        The prescribed voting period for a proposal shall be two days (48 hours),
+      beginning at the conclusion of the amendment period for that proposal.
 
 ----------------------------------------------------------------------
