@@ -381,6 +381,18 @@ Rule 314 (Mutable)
 
 ----------------------------------------------------------------------
 
+Rule 318 (Mutable)
+
+**Mr. President**
+
+      All players must exclusively refer to the president by calling them "Mr. President".
+      The first president will be the player who casted the 3rd vote in favor of this rule.
+      
+      Penalty: Admit to being a moron
+      Statute of Limitations: 5 minutes
+
+----------------------------------------------------------------------
+
 Rule 325 (Mutable)
 
       Court exists now. If a player is convicted GUILTY of a crime/rule in court, they incur

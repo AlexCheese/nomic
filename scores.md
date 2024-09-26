@@ -2,7 +2,7 @@
 |--------------|--------|
 | AlexCheese   | 0      |
 | EliTheCoder  | 20     |
-| Force        | -89    |
+| Force        | -83    |
 | MrJeremyFace | -10    |
 | Orion        | 3      |
 | Elf          | -6     |
