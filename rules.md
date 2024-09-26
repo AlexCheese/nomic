@@ -411,3 +411,39 @@ Rule 327 (Mutable)
       beginning at the conclusion of the amendment period for that proposal.
 
 ----------------------------------------------------------------------
+
+Rule 329 (Mutable)
+
+**Bundled Proposals**
+
+      A single proposal may contain multiple rule changes, hereafter referred to as a
+      "bundled proposal". All rule changes within a bundled proposal shall be voted on
+      collectively, with a single vote determining the adoption or rejection of all
+      included changes.
+
+      Numbering: This rule takes precedence over the rule governing the assignment of
+      numbers to proposed rule changes for bundled proposals. The Speaker shall assign
+      a single proposal number to the bundled proposal. Each individual rule change within
+      the bundle shall be labeled with a letter (e.g., 381a, 381b, 381c) for reference.
+
+      Voting: The rules governing voting procedures and required majorities shall apply to
+      the bundled proposal as a whole. The voting requirements and Speaker's consent (if applicable)
+      shall be determined based on the most stringent requirements of any individual rule
+      change within the bundle.
+
+      Point Allocation: For the purposes of point allocation, a bundled proposal shall be
+      treated as a single proposal. The proposer(s) shall receive or lose points once, based
+      on the adoption or rejection of the entire bundled proposal, not for each individual
+      rule change within it.
+
+      Adoption: If a bundled proposal is adopted, all rule changes within it shall take effect
+      simultaneously at the moment of the completion of the vote, in accordance with the rule
+      governing when adopted rule changes take effect.
+
+      Rejection: If a bundled proposal is rejected, none of the rule changes within it shall
+      take effect.
+
+      This rule does not alter the existing definition of a rule change, nor does it change
+      the requirement that all proposed rule changes must be written down before being voted on.
+
+----------------------------------------------------------------------
