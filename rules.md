@@ -412,7 +412,7 @@ Rule 327 (Mutable)
 
 ----------------------------------------------------------------------
 
-Rule 329 (Mutable)
+Rule 330 (Immutable)
 
 **Bundled Proposals**
 
