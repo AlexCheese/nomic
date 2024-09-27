@@ -1,6 +1,6 @@
 | Name         | Points |
 |--------------|--------|
-| AlexCheese   | 0      |
+| AlexCheese   | -10    |
 | EliTheCoder  | 26     |
 | Force        | -83    |
 | MrJeremyFace | -10    |
