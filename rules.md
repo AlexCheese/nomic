@@ -310,18 +310,6 @@ Rule 306 (Mutable)
 
 ----------------------------------------------------------------------
 
-Rule 307 (Mutable)
-
-      A legal judgement is either TRUE, FALSE, or UNDECIDED.  The
-      judgement may be accompanied by reasons and arguments, but such
-      reasons and arguments form no part of the judgement itself.  If a
-      judgement is accompanied by reasons and arguments, the Speaker must
-      distribute the reasons and arguments along with the judgement.
-        If the judgement is UNDECIDED, a new Judge is selected to judge
-      the same statement.
-
-----------------------------------------------------------------------
-
 Rule 308 (Mutable)
 
       If judgement was invoked by a Voter, then the first Judge to be
@@ -378,6 +366,17 @@ Rule 314 (Mutable)
       Rules can be authored by any number of Voters. Any points that would be gained or
       lost by the author upon the proposal passing or failing will be divided across the
       co-authors equally, rounded to the nearest whole number.
+
+----------------------------------------------------------------------
+
+Rule 315 (Mutable)
+
+**Legal Judgements**
+
+      A legal judgement is either TRUE, FALSE, or UNDECIDED.  The
+      judgement must be accompanied by reasons and arguments.  If a
+      judgement is accompanied by reasons and arguments, the Speaker must
+      distribute the reasons and arguments along with the judgement.
 
 ----------------------------------------------------------------------
 
