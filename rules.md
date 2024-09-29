@@ -450,8 +450,7 @@ Rule 334 (Mutable)
 
 Rule 336 (Mutable)
 
-## Rule 336 (Mutable)
-# Prefire Voting
+**Prefire Voting**
 
       1. During the prescribed amendment period for a proposal, players may submit a prefire vote to the Speaker.
 
