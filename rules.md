@@ -447,3 +447,34 @@ Rule 334 (Mutable)
       Players whose proposals are not adopted shall lose 10 points.
 
 ----------------------------------------------------------------------
+
+Rule 336 (Mutable)
+
+## Rule 336 (Mutable)
+# Prefire Voting
+
+      1. During the prescribed amendment period for a proposal, players may submit a prefire vote to the Speaker.
+
+      2. A prefire vote shall consist of:
+         a) The player's vote (for or against the proposal)
+         b) The proposal number to which the vote pertains
+
+      3. The Speaker shall maintain a confidential record of all prefire votes received.
+
+      4. Players may modify their prefire vote for a given proposal at any time during the amendment period by submitting a new prefire vote to the Speaker. The most recent prefire vote shall supersede all previous prefire votes for that proposal.
+
+      5. At the commencement of the voting period:
+         a) All valid prefire votes shall automatically become active votes.
+         b) The Speaker shall include these votes in the tally along with any votes cast during the regular voting period.
+
+      6. Once the voting period begins, prefire votes may not be changed or withdrawn except through the standard voting procedures.
+
+      7. Prefire votes do not alter the prescribed voting period. Players who have not submitted a prefire vote retain the right to vote during the entire voting period.
+
+      8. The Speaker shall not reveal any information about prefire votes, including their existence or count, until the end of the prescribed voting period.
+
+      9. In case of any conflict between this rule and existing rules regarding voting procedures, this rule takes precedence only in matters specifically relating to prefire voting.
+
+      10. This rule does not alter any existing requirements for vote validity, quorum, or majority as defined in other rules.
+
+----------------------------------------------------------------------
