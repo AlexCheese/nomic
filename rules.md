@@ -85,15 +85,6 @@ Rule 109 (Immutable)
 
 ----------------------------------------------------------------------
 
-Rule 110 (Immutable)
-
-      Rule changes that transmute immutable rules into mutable rules
-      may be adopted if and only if the vote is unanimous among votes
-      legally cast.  Transmutation shall not be implied, but must be
-      stated explicitly in a proposal to take effect.
-
-----------------------------------------------------------------------
-
 Rule 111 (Immutable)
 
       In a conflict between a mutable and an immutable rule, the
@@ -446,3 +437,13 @@ Rule 330 (Immutable)
       the requirement that all proposed rule changes must be written down before being voted on.
 
 ----------------------------------------------------------------------
+
+Rule 333 (Mutable)
+
+      Rule changes that transmute immutable rules into mutable rules
+      may be adopted if and only if the vote is unanimous among votes
+      legally cast.  Transmutation shall not be implied, but must be
+      stated explicitly in a proposal to take effect.
+
+----------------------------------------------------------------------
+
