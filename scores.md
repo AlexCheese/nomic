@@ -10,4 +10,4 @@
 | mattypatty   | 0      |
 | REclipsent   | -4     |
 | Some1ne      | 0      |
-| huday        | 0      |
+| huday        | -10    |
