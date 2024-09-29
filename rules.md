@@ -292,15 +292,6 @@ Rule 219 (Mutable)
 
 ----------------------------------------------------------------------
 
-Rule 306 (Mutable)
-
-**Point Allocation**
-
-      Players whose proposals are adopted shall receive a random number of points in the range 1-10 inclusive. 
-      Players whose proposals are not adopted shall lose 10 points.
-
-----------------------------------------------------------------------
-
 Rule 308 (Mutable)
 
       If judgement was invoked by a Voter, then the first Judge to be
@@ -447,3 +438,12 @@ Rule 333 (Mutable)
 
 ----------------------------------------------------------------------
 
+Rule 334 (Mutable)
+
+**Point Allocation**
+
+      Players whose proposals are adopted shall receive a number of points
+      equal to the number of Voters which voted in favor of that proposal. 
+      Players whose proposals are not adopted shall lose 10 points.
+
+----------------------------------------------------------------------
