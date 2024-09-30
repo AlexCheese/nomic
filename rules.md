@@ -351,17 +351,6 @@ Rule 314 (Mutable)
 
 ----------------------------------------------------------------------
 
-Rule 315 (Mutable)
-
-**Legal Judgements**
-
-      A legal judgement is either TRUE, FALSE, or UNDECIDED.  The
-      judgement must be accompanied by reasons and arguments.  If a
-      judgement is accompanied by reasons and arguments, the Speaker must
-      distribute the reasons and arguments along with the judgement.
-
-----------------------------------------------------------------------
-
 Rule 318 (Mutable)
 
 **Mr. President**
@@ -485,5 +474,16 @@ Rule 339 (Mutable)
       Does Nothing
 
       The third person to vote yes to this gets 25 points for free
+
+----------------------------------------------------------------------
+
+Rule 340 (Mutable)
+
+**Legal Judgements**
+
+      A legal judgement is either TRUE, FALSE, or UNDECIDED.  The
+      judgement must be accompanied by reasons and arguments.  The Speaker must
+      distribute the reasons and arguments along with the judgement.  If the
+      judgement is UNDECIDED, a new Judge is selected to judge the same statement.
 
 ----------------------------------------------------------------------
