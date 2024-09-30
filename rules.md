@@ -479,10 +479,11 @@ Rule 336 (Mutable)
 ----------------------------------------------------------------------
 
 Rule 339 (Mutable)
-Pass Go:
 
-Does Nothing
+**Pass Go**
 
-The third person to vote yes to this gets 25 points for free
+      Does Nothing
+
+      The third person to vote yes to this gets 25 points for free
 
 ----------------------------------------------------------------------
