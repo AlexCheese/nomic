@@ -477,3 +477,12 @@ Rule 336 (Mutable)
       10. This rule does not alter any existing requirements for vote validity, quorum, or majority as defined in other rules.
 
 ----------------------------------------------------------------------
+
+Rule 339 (Mutable)
+Pass Go:
+
+Does Nothing
+
+The third person to vote yes to this gets 25 points for free
+
+----------------------------------------------------------------------
