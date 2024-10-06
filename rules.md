@@ -488,19 +488,3 @@ Rule 340 (Mutable)
 
 ----------------------------------------------------------------------
 
-Rule 342 (Mutable)
-
-      Upon the enactment of this rule, the players MrJeremyFace and EliTheCoder's
-      (will be called X in this proposal) points is set to 100 points or if the required points
-      to win the game changes to another amount, X's points is rather set to that amount.
-      This means that X will win the game.
-
-      Upon the game restarting, this rule also applies immediately after all other start of game
-      rules have been initiated. So, immediately after the start of a new game, X will automatically win.
-
-      If this rule creates an infinite loop of X winning, X will win an infinite number of times,
-      this rule is then repealed, and the game shall continue with all the other rules. The new Speaker
-      is randomly selected from the set of Voters who are not X or the old Speaker. This rule takes
-      precedence over rules selecting the new Speaker (i.e. 203).
-
-----------------------------------------------------------------------
